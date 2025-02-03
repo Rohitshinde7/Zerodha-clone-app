@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Team() {
+function Stats() {
     return (
         <div>
-            <h1>Team Page</h1>
+            <h1>Stats  Page</h1>
         </div>
       );
 }
 
-export default Team;
+export default Stats;
