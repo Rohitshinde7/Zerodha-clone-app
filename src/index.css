@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav-link {
+ margin-left: 40px;
+}
+.footer-link {
+  text-decoration: none; /* Remove underline */
+  margin-right: 15px; /* Increase gap between links */
+  color: gray;
+}
+
+.footer-atag {
+  text-decoration: none; /* Remove underline */
+  color: rgb(103, 92, 92); /* Set color to dark gray */
+  font-weight: bold; /* Make text bold */
+
+}

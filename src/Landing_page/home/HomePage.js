@@ -11,7 +11,6 @@ import Footer from "../Footer";
 function HomePage() {
   return (
     <div>
-      <h1>Home Page</h1>
       <>
         <Navbar />
         <Hero />
