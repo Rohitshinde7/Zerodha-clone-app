@@ -25,5 +25,5 @@ code {
   text-decoration: none; /* Remove underline */
   color: rgb(103, 92, 92); /* Set color to dark gray */
   font-weight: bold; /* Make text bold */
-
+  font-size: 17px;
 }
