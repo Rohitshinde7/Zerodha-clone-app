@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer style={{backgroundColor:"rgb(250,250,250)"}}>
     <div className="container border-top mt-5">
-      <div className="row p-5">
+      <div className="row pt-5">
         <div className="col">
           <img src="media/images/Logo.svg" style={{ width: "40%" }}></img>
           <p className="mt-4">
@@ -15,43 +15,44 @@ function Footer() {
         <div className="col">
           <h5>Company</h5>
           <br></br>
-          <a className="footer-atag" href="">About</a>
+          <a style={{paddingBottom:"20px"}} className="footer-atag" href="">About</a>
+          <br></br>
           <br></br>
           <a className="footer-atag" href="">Products</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Pricing</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Referral programme</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Careers</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Zerodha.tech</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Open source</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Press & media</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Zerodha Cares (CSR)</a>
         </div>
         <div className="col">
           <h5>Support</h5>
           <br></br>
           <a className="footer-atag" href="">Contact us</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Support portal</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Z-Connect blog</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">List of charges</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Downloads & resources</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Videos</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Market overview</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">How to file a complaint?</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Status of your complaints</a>
           <br></br>
         </div>
@@ -59,12 +60,12 @@ function Footer() {
           <h5>Account</h5>
           <br></br>
           <a className="footer-atag" href="">Open an account</a>
-          <br></br>
+          <br></br><br></br>
           <a className="footer-atag" href="">Fund transfer</a>
-          <br></br>
+          <br></br><br></br>
         </div>
       </div>
-      <div className="row p-5">
+      <div className="row pt-5">
         <p style={{fontSize:"13px"}} className="text-muted">
           Zerodha Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration
           no.: INZ000031633 CDSL/NSDL: Depository services through Zerodha
